@@ -7,14 +7,14 @@
 
 - Fail
 
-![](img/fail1.png)
+![](img/fail1.PNG)
 
-![](img/fail2.png)
+![](img/fail2.PNG)
 - Pass
 
-![](img/pass1.png)
+![](img/pass1.PNG)
 
-![](img/pass2.png)
+![](img/pass2.PNG)
 
 
 
